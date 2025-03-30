@@ -1,0 +1,9 @@
+flask
+flask-cors
+torch
+torchvision
+Pillow
+streamlit
+requests
+psycopg2
+streamlit-drawable-canvas
